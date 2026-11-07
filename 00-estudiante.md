@@ -1,7 +1,7 @@
 # Datos del estudiante
 
-- **Apellido y nombre:**
-- **Tecnicatura:** (Higiene y Seguridad / Comercio Exterior / Marketing Digital / Seguros / Administración de Empresas)
-- **Cohorte / turno:**
-- **Fecha:**
+- **Miranda Alejandra Nataly:**
+- **Tecnicatura:** (Administración de Empresas)
+- **2026 / INTE:**
+- **07/11/2026:**
 - **Consigna que desarrollo:** `consignas/` + nombre del archivo
